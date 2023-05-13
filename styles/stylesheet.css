@@ -152,6 +152,9 @@ body {
         width: auto;
     }
     .imagem {
-        width: 90%;
-}
+        width: 60%;
+    }
+    .apresentacao__links__navegacao {
+        width: 60%;
+    }
 }
