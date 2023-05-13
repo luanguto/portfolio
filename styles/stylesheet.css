@@ -135,3 +135,23 @@ body {
         width: auto;
     }
 }
+
+@media (max-width: 600px ) {
+    .cabecalho{
+        padding: 10%;
+    }
+    .cabecalho__menu{
+        justify-content: center;
+        gap: 60px;
+    }
+    .apresentacao {
+        flex-direction: column-reverse;
+        padding: 5% ;
+    }
+    .apresentacao__conteudo{
+        width: auto;
+    }
+    .imagem {
+        width: 90%;
+}
+}
